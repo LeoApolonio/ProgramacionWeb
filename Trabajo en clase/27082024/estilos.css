@@ -1,0 +1,20 @@
+h1
+{
+    color:purple;
+    border: 10px solid saddlebrown;
+}
+
+.parrafoRojo
+{
+    font-size: 35px;
+    border: 10px solid saddlebrown;
+}
+
+.parrafoAmazul
+{
+    color: crimson;
+    background-color: yellow;
+    border: 10px solid saddlebrown;
+    margin-top: 100px;
+    padding-bottom: 120px;
+}
