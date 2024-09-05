@@ -18,6 +18,8 @@ body
 .fondoNegro
 {
     background-color: black;
+    text-align: center;
+    color: white;
 }
 
 .imagen
@@ -56,4 +58,21 @@ body
 {
     border: 10px solid white;
     border-radius: 10px;
+}
+
+.bordeVerde
+{
+    border: 2px solid rgb(95, 95, 184);
+    border-radius: 5px;    
+}
+
+.bordeAzul
+{
+    border: 2px solid brown;
+    border-radius: 5px;
+}
+
+li
+{
+    margin-top: 10px;
 }
