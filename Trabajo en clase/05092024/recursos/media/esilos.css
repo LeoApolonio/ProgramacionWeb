@@ -1,8 +1,13 @@
+@font-face {
+    font-family: FuenteLeo;
+    src: url(./recursos/font/after_disaster/After_Disaster.otf);
+}
+
 body
 {
-    background-color: blueviolet;
+    background: rgb(227,13,53);background: linear-gradient(90deg, rgba(227,13,53,1) 22%, rgba(86,0,152,1) 100%);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding: 5em; 
+    padding: 5em;
 }
 
 .fondoBlanco
@@ -40,6 +45,7 @@ body
     font-size: 1em;
     color: white;
     text-align: left;
+    font-family: 'FuenteLeo';
 }
 
 .separacion
