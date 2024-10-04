@@ -1,0 +1,13 @@
+.bg1
+{
+    text-align: center;
+    background: rgb(22,9,230);
+    background: linear-gradient(90deg, rgba(22,9,230,1) 0%, rgba(255,47,159,1) 50%, rgba(255,235,0,1) 100%); 
+}
+
+.bg2
+{
+    text-align: center;
+    background: rgb(255,47,104);
+    background: linear-gradient(90deg, rgba(255,47,104,1) 0%, rgba(255,234,137,1) 50%, rgba(71,43,20,1) 100%); 
+}
