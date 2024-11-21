@@ -1,7 +1,7 @@
 <?php
-    $host_db = "127.0.0.1:3306";
-    $user_name = "root";
-    $user_pass = "";
+    $host_db = "localhost";
+    $user_name = "leoweb_sql";
+    $user_pass = "12345leo";
     $db_name = "fes_aragon";
 
     $conexion= new mysqli($host_db,$user_name,$user_pass,$db_name);
